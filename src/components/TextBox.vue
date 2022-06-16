@@ -10,6 +10,6 @@ export default {
 
 <style lang="scss" module>
 .fancyClass {
-  color: red;
+  background-color: red;
 }
 </style>
